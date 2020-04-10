@@ -9,3 +9,4 @@ Git is free
 Git has a mutable index called stage.
 Git tracks changes.
 Git add another.
+Create a new branch is quick.
